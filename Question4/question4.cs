@@ -1,3 +1,4 @@
+Console.WriteLine("STUDENT NAME: ZAINAB BATOOL || STUDENT ID: 66430 || SUBMITTION DATE: 28/10/26");
 Console.Write("Enter first number: ");
 if (double.TryParse(Console.ReadLine(), out double num1))
 {
